@@ -1,4 +1,4 @@
-# Spotify Freemium Conversion & Retention Analysis
+# Spotify Premium Conversion & Retention Analysis
 
 **A product analytics case study identifying the behavioral signals that predict free-to-premium conversion — and designing an experiment to move the needle.**
 
