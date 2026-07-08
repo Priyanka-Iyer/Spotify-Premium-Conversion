@@ -2,7 +2,7 @@
 
 **A product analytics case study identifying the behavioral signals that predict free-to-premium conversion — and designing an experiment to move the needle.**
 
-> Built by [Your Name] · UC Davis MSBA · [LinkedIn](https://linkedin.com/in/yourprofile) · [Tableau Dashboard](https://public.tableau.com/yourlink)
+> Built by Priyanka Iyer ·  [LinkedIn](https://www.linkedin.com/in/priyanka--iyer/) · [Tableau Dashboard](https://public.tableau.com/app/profile/priyanka.iyer2955/viz/Spotify_Premium_Conversion_Dashboard/Dashboard1)
 
 ---
 
